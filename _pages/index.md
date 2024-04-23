@@ -22,7 +22,7 @@ permalink: /
 
 **f(t) = Asin(ωt+θ) ‥(1)**
 
-ここで、A:振幅
+ここで、f(t) : 波の時間変化を表す関数、A : 振幅、ω : 角周波数、θ : 位相
 
 ## フェーザ  
 
@@ -61,4 +61,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/Create_WebSite/assets/images/logo-150.png)
+![image](/Transmisson Method#1/assets/images/logo-150.png)
