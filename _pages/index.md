@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "自己紹介"
 author: default
 permalink: /
 ---
@@ -46,4 +46,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/Create_WebSite/assets/images/logo-150.png)
