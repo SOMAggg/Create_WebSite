@@ -1,6 +1,6 @@
 ---
-title: "自己紹介"
-author: default
+title: "通信方式"
+author: soma
 permalink: /
 ---
 
@@ -13,7 +13,7 @@ permalink: /
 
 以下テンプレート
 
-# 見出し1
+# スペクトル表現とは
 ## 見出し2
 ### 見出し3
 #### 見出し4
