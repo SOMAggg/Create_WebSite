@@ -12,6 +12,8 @@ permalink: /
 ---
 
 ## 波
+![water-1761027_1280](https://github.com/SOMAggg/Create_WebSite/assets/167855712/9d024e4b-d741-4c1f-9e4f-af4beeab8ae6)
+
 
 ## 正弦波
 
