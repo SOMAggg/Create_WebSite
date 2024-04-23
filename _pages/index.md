@@ -11,7 +11,8 @@ permalink: /
 
 ---
 
-## 波
+## 周期信号
+周期信号とは、ある周期で同じ波形を繰り返す信号のこと。
 ![wave-8139021_640](https://github.com/SOMAggg/Create_WebSite/assets/167855712/d3a90167-645f-4d2d-bd7f-c6a842bdc297)
 
 
